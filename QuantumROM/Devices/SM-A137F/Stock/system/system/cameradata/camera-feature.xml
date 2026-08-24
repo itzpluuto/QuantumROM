@@ -104,7 +104,7 @@
     <local name="SINGLE_LIVE_FOCUS_PREVIEW_FPS_MAX" value="24" />
 
     <!-- Photo features -->
-    <local name="SUPPORT_MOTION_PHOTO" value="false" />
+    <local name="SUPPORT_MOTION_PHOTO" value="true" />
 
     <!-- Intelligent features -->
     <local name="SUPPORT_ADDITIONAL_EFFECTS_WITH_SCENE_DETECTION" value="false" />
@@ -128,7 +128,7 @@
     <local name="LIMITATION_UHD_RECORDING_DURING_SMARTVIEW" value="true" />
 
     <!-- VDIS+Tracking AF -->
-    <local name="SUPPORT_SUPER_VIDEO_STABILIZATION" value="false" />
+    <local name="SUPPORT_SUPER_VIDEO_STABILIZATION" value="true" />
     <local name="SUPPORT_OBJECT_TRACKING_AF" value="false" />
 
     <!-- Pro/Pro video features -->
@@ -157,8 +157,8 @@
     <!-- VI features -->
     <local name="SUPPORT_SEAMLESS_LENS_CHANGE_VI" value="true" />
     <local name="TRANSITION_SCALE_FACTOR_WIDE_TO_NORMAL" value="1.9f" />
-    <local name="TRANSITION_NORMAL_TO_WIDE_ANIMATION_DURATION" value="500" />
-    <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="500" />
+    <local name="TRANSITION_NORMAL_TO_WIDE_ANIMATION_DURATION" value="250" />
+    <local name="TRANSITION_WIDE_TO_NORMAL_ANIMATION_DURATION" value="250" />
 
     <!-- Performance -->
     <local name="SUPPORT_CAMERA_APP_ENTRY_PERFORMANCE" value="true" />
